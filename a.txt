@@ -1,0 +1,20 @@
+Dùng LoveIt Template
+
+Cần Deploy Netlify
+
+https://flaviocopes.com/start-blog-with-hugo/
+https://codecungtui.github.io/tao-blog-don-gian-voi-hugo-va-github/
+
+design a system for serving blogs to massive readers (10k tps)
+
+Pull request
+
+
+      [[languages.en.menu.main]]
+        weight = 6
+        identifier = "github"
+        pre = "<i class='fab fa-github fa-fw' aria-hidden='true'></i>"
+        post = ""
+        name = ""
+        url = "https://github.com/dillonzq/LoveIt"
+        title = "GitHub"
