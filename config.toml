@@ -1,9 +1,10 @@
-baseURL = "http://example.org/"
+baseURL = "https://nh0znoisung.github.io/homepage"
 # [en, zh-cn, fr, ...] determines default content language
 defaultContentLanguage = "en"
 # language code
 languageCode = "en"
 title = "Code With Me"
+canonifyUrls = true
 
 # Change the default theme to be use when building the site with Hugo
 theme = "LoveIt"
