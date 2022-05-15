@@ -547,7 +547,7 @@ enableRobotsTXT = true
         post = ""
         name = "Posts"
         url = "/posts/"
-        title = ""
+        title = "Post"
       [[languages.en.menu.main]]
         weight = 2
         identifier = "tags"
@@ -555,7 +555,7 @@ enableRobotsTXT = true
         post = ""
         name = "Tags"
         url = "/tags/"
-        title = ""
+        title = "Tags"
       [[languages.en.menu.main]]
         weight = 3
         identifier = "categories"
@@ -563,15 +563,15 @@ enableRobotsTXT = true
         post = ""
         name = "Categories"
         url = "/categories/"
-        title = ""
-      [[languages.en.menu.main]]
-        weight = 4
-        identifier = "documentation"
-        pre = ""
-        post = ""
-        name = "Docs"
-        url = "/categories/documentation/"
-        title = ""
+        title = "Categories"
+      # [[languages.en.menu.main]]
+      #   weight = 4
+      #   identifier = "documentation"
+      #   pre = ""
+      #   post = ""
+      #   name = "Docs"
+      #   url = "/categories/documentation/"
+      #   title = ""
       [[languages.en.menu.main]]
         weight = 5
         identifier = "about"

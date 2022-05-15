@@ -18,3 +18,7 @@ Pull request
         name = ""
         url = "https://github.com/dillonzq/LoveIt"
         title = "GitHub"
+
+Thêm chữ <!--more-->
+
+hugo serve -e production
